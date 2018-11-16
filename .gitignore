@@ -3,3 +3,4 @@
 .cache
 .venv
 .bash_history
+.gitconfig
