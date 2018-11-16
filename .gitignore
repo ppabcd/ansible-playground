@@ -4,3 +4,4 @@
 .venv
 .bash_history
 .gitconfig
+.ssh
